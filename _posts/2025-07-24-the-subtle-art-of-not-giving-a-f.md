@@ -5,7 +5,7 @@ tags: ["Books"]
 ---
 
 **The Subtle Art of Not Giving a F'ck**
-– Mark Manson
+By Mark Manson
 Reading session: (July 19 – July 24 2025)
 
 ---

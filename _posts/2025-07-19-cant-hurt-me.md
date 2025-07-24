@@ -5,7 +5,7 @@ tags: ["Books"]
 ---
 
 **Can't Hurt Me**
-- David Goggins
+David Goggins
 (13 July - 19 July 2025)
 
 ---
