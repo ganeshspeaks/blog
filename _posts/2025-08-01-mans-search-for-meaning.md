@@ -33,7 +33,10 @@ Date: 01 August 2025
 ### Memorable Quotes
 
 > “He who has a why to live can bear almost any how.” – Nietzsche
+
 > “A frustrated or bored man chooses pleasure over meaning. He lives to avoid boredom, not to find purpose.”
+
+
 > “When we are no longer able to change a situation, we are challenged to change ourselves.”
 
 

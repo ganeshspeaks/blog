@@ -31,7 +31,11 @@ Date: 31 July 2025
 ### Memorable Quotes
 
 > "It's not how long you sit at a desk that determines the value you generate. It's the energy you bring to those hours that is important. Therefore, focus on managing energy and effectivenss rather than time and busyness."
+
+
 > "Whether you think you can, or you think you can't - you're right. It's confirmation bias means that if you have negative or positive beliefs about yourself, you'll be good at finding their proof."
+
+
 > Practising gratitude, challenging limiting beliefs and using mental rehearsals (visualization) are great methods to reprogram your brain.
 
 ### Action Steps
