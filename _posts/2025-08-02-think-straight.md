@@ -5,7 +5,7 @@ tags: ["Books"]
 ---
 
 **Think Straight** – Darius Foroux
-Date: 02 August
+Date: 02 August 2025
 <br/>
 
 **Purpose**: Throught this book, I want to learn the concepts and hacks to give direction to my thoughts, from chaos to straight and practical thoughts. And I want to avoid non-stop useless thoughts.
