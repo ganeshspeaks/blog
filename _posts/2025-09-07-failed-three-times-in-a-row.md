@@ -3,6 +3,7 @@ layout: post
 title: "Failed Three Times in a Row"
 tags: ["Experience", "Insights"]
 ---
+
 **Failed three times in a row.**
 
 1. First, I built an app with flashcards, mind maps, AI ask, quick facts feed → then realized most students use desktop.
@@ -20,3 +21,6 @@ Now, I’m focusing on **Homework Helper** (mobile-first, targeting US, UK, Aust
 - Don't build the thing that feels fancy and emotional to you.
 - People don't care how much effort you have put. They only care, what problems your product will solve.
 - Execute fast to realize fast. Don't think, you have entire life to build, learn, and then give up.
+- Failure 1: Taught me market research
+- Failure 2: Taught me retention matters more than signups
+- Failure 3: Taught me that polish can't fix fundamental problems
