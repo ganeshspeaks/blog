@@ -4,7 +4,7 @@ title: "The Art of Rising After Every Fall"
 tags: ["Lessons"]
 ---
 
-![The Art of Rising After Every Fall](/images/blogs/one_door_closes_another_opens.jpg)
+![The Art of Rising After Every Fall](/assets/posts/one_door_closes_another_opens.jpg)
 
 Life hits hard when we fail. We start feeling as if there’s no hope left. Even though we were giving our best with full energy and optimism, it suddenly seems like life has nothing more to offer, and we feel like giving up.
 
