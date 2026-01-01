@@ -9,8 +9,7 @@ tags: ["Lessons", "Books", "Poems", "Experience"]
 Even though I failed multiple times, I revised Study Friend based on user needs, which ultimately resulted in a strong product-market fit (PMF).
 I learned a lot about personal growth, mindset, business, and spirituality. To portray the lesson of the year, I wrote this poem:
 
-INSTRUMENT
-
+> **INSTRUMENT**   
 > I worked in the dark  
 > Until my eyes began to strain.  
 > 
