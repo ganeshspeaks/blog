@@ -12,17 +12,17 @@ I learned a lot about personal growth, mindset, business, and spirituality. To p
 > **INSTRUMENT**   
 > I worked in the dark  
 > Until my eyes began to strain.  
-> 
+>   
 > I got defeated;  
 > as if it was written in my fate.  
-> 
+>   
 > I stared at the sky  
 > thinking my fruits were late.  
-> 
+>  
 > Then the candle got its fire  
 > I'm not the musician; but nature is.  
 > I'm not the player; but God is.  
-> 
+>  
 > How could the flute play itself?  
 > How could the instrument judge itself?  
 
