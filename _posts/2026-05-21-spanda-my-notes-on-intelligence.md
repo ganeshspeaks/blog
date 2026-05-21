@@ -4,8 +4,6 @@ title: "Spanda: My Notes on Intelligence"
 tags: ["neuroscience", "ai", "math"]
 ---
 
-# Spanda: My Notes on Intelligence
-
 Human intelligence is not a search engine that searches, ranks and then returns. For eg, when I think about a dog, my brain does not go for a search, but it just comes up. It's like a magnet. It does not move, but the iron comes to it. So, the context (query, goal, or anything) is the magnet. The right knowledge or experience comes to it automatically.  I'd say, cognition is dominated by resonance-constrained activation rather than explicit symbolic retrieval.
 
 And it's not a list of static facts or words either. When I think about dog, I don't get a dictionary definition. I get a cloud (in Jeff Hawkins term "model"). And which part of the cloud lights up depends on what I was thinking about. Dog food context gives me food stuff, not types of dogs breed. Dog behavior context gives me behavior stuff. Same dog model in my brain, but different outputs.  
